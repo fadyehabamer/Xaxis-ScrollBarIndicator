@@ -7,3 +7,6 @@ function movescroll (e){
     scrollElement.style.width = percentage + "%"
 }
 ```
+<p align="center">
+    <img src="ïmg.gif">
+</p>
