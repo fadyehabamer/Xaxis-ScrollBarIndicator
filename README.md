@@ -8,5 +8,5 @@ function movescroll (e){
 }
 ```
 <p align="center">
-    <img src="ïmg.gif">
+    <img src="img.gif">
 </p>
